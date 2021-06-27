@@ -1,4 +1,4 @@
-# Simple Api
+# Simple Api - to train freshers
 
 * https://www.codecademy.com/articles/what-is-rest
 
